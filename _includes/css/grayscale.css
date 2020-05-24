@@ -59,6 +59,7 @@ a:focus {
 
 .light {
     font-weight: 400;
+    text-transform: none;
 }
 
 .navbar-custom {
