@@ -4,7 +4,7 @@ email: divyansh.natani@gmail.com
 baseurl: "/grayscale-theme"
 url: ""
 description: "
-Hello, I am Divyansh Natani. Currently pursuing B.Tech from IIT Bombay. I belong to Jaipur aka Pink City, Rajasthan. A untrained pianoist, language learner, code lover, noob photographer and an explorer. My another intrest area is Current Affairs and I follow center-left ideology."
+Hello, I am Divyansh Natani currently pursuing B.Tech from IIT Bombay. I belong to Pink City aka Jaipur, Rajasthan. An untrained pianoist, language learner, code lover, noob photographer and an explorer. My another interest area is Current Affairs and I follow center-left ideology."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -16,12 +16,12 @@ footer: Divyansh Natani
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
   - title: facebook
     url: https://www.facebook.com/divyansh.natani.142
   - title: instagram
     url: https://www.instagram.com/divyansh_natani/
+  - title: twitter
+    url: https://twitter.com/SBootstrap
   - title: linkedin
     url: https://www.linkedin.com/in/divyansh-natani-b59389193/
   - title: github
