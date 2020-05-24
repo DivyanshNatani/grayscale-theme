@@ -1,5 +1,5 @@
 # Site settings
-title: Grayscale
+title: Divyansh Natani
 email: your-email@domain.com
 baseurl: "/grayscale-theme"
 url: ""
@@ -24,7 +24,7 @@ social:
   - title: bitbucket
     url: http://bitbucket.org/jekyll
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/DivyanshNatani
 
 # Build settings
 markdown: kramdown
